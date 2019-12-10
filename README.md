@@ -3,6 +3,7 @@
 * 代码拉取与提交
 * 分支操作
 * 辅助功能
+* 补充部分
 ## 基本操作
 > 在某文件夹中右键 Git Bash
 
@@ -115,3 +116,8 @@ git reflog
 ```
 
 我的 github [链接](https://github.com/CDownPace)
+
+## 补充部分
+> git错误 error: failed to push some refs to 'https://github.com/...
+
+> 解决办法：git pull --rebase origin master
