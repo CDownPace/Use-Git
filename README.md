@@ -118,6 +118,13 @@ git reflog
 我的 github [链接](https://github.com/CDownPace)
 
 ## 补充部分
+> git下载地址  
+
+https://git-scm.com/download/win
+
 > git错误 error: failed to push some refs to 'https://github.com/...
 
 > 解决办法：git pull --rebase origin master
+
+> 结构图
+![avatar](https://img-blog.csdnimg.cn/2018122323213594.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxNzgyNDI1,size_16,color_FFFFFF,t_70)
